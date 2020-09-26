@@ -1,0 +1,39 @@
+body{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to bottom right,#A3FAF1 ,#F9B8F5 ,#D9A3FA );
+}
+h1{
+  margin: auto;
+  margin-top: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 64px;
+}
+h2{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 32px;
+}
+button{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color:  #77dd77;
+  border-radius: 25%;
+  font-size: 16px;
+  border-color: #77dd77;
+}
+
+
